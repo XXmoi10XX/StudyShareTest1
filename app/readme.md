@@ -1,7 +1,7 @@
 ##  ShareStudy
 ![screencapture-localhost-2021-04-12-23_25_20](https://user-images.githubusercontent.com/40953175/114410533-68ebcf80-9be6-11eb-912b-3d32e03a9c45.png)
 
-img width="1009" alt="スクリーンショット 2021-04-12 22 46 49" src="https://user-images.githubusercontent.com/40953175/114410533-68ebcf80-9be6-11eb-912b-3d32e03a9c45.png">
+<img width="1009" alt="スクリーンショット 2021-04-12 22 46 49" src="https://user-images.githubusercontent.com/40953175/114410533-68ebcf80-9be6-11eb-912b-3d32e03a9c45.png">
 
 
 
