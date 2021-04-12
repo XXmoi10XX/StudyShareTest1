@@ -13,4 +13,11 @@
 
 
 ## 使用技術
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+
+- PHP 7.3.11 
+- Laravel Framework 6.20.19
+- Mysql 8.0.22
+- laradock
+- AWS
+  - VPC
+  - EC2
