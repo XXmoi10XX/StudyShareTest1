@@ -1,5 +1,6 @@
 ##  ShareStudy
-images.githubusercontent.com/40953175/114410533-68ebcf80-9be6-11eb-912b-3d32e03a9c45.png)
+![screencapture-localhost-2021-04-12-23_25_20](https://user-images.githubusercontent.com/40953175/114410533-68ebcf80-9be6-11eb-912b-3d32e03a9c45.png)
+
 
 
 参考書の分からない点を共有し,解決点をまとめるアプリです。
