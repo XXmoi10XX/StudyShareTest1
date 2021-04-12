@@ -15,8 +15,9 @@
 ## 使用技術
 
 - PHP 7.3.11 
-- Laravel Framework 6.20.19
+- Laravel 6.20.19
 - Mysql 8.0.22
+- laradock
 - laradock
 - AWS
   - VPC
