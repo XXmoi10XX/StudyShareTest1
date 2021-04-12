@@ -1,4 +1,4 @@
-##  ShareStudy
+##  ShareStudy - 概要 -
 
 
 <img width="700" height="1000" src="https://user-images.githubusercontent.com/40953175/114412255-e3691f00-9be7-11eb-88dd-f4a9e332d516.png">
@@ -15,6 +15,9 @@
 ことをコンセプトに「ShareStudy」というサービスを作りました。
 
 アプリのURL: http://ec2-52-198-0-151.ap-northeast-1.compute.amazonaws.com/
+
+## 目的
+
 
 
 
