@@ -44,7 +44,7 @@
 
 
 
-                        <h3 class="mb-3">質問する</h3>
+                        <h3 class="mb-3">質問,回答する</h3>
                         <p></p>
 
 
@@ -111,7 +111,7 @@
 
 
 <div class="container">
-    <h3 class="mb-3">投稿する</h3>
+    <h3 class="mb-3">質問,回答する</h3>
     <div class="row">
         <div class="col-12">
             @auth

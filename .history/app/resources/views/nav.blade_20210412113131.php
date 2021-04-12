@@ -19,13 +19,9 @@
             @endguest
 
             @auth
-            <li class="nav-item">
-                <button form="logout-button" class="dropdown-item" type="submit">
-                    ログアウト
-                </button>
+            <li class="nav-item ">
+
             </li>
-
-
             <form id="logout-button" method="POST" action="{{ route('logout')}}">
                 @csrf
             </form>

@@ -23,7 +23,7 @@
         }
     }
 
-    .img {
+    .fine {
 
         text-align: center;
 
@@ -44,10 +44,10 @@
                 <div class="col-lg-6 col-md-8 mx-auto">
                     <h1 class="fw-light">Share Study</h1>
                     <p class="lead text-muted">書籍や動画の分からない点を共有するサイトです<br>分からない点があれば質問してみましょう！</p>
-                    <!-- <p>
+                    <p>
                         <a href="#" class="btn btn-primary my-2">アカウント登録</a>
                         <a href="#" class="btn btn-secondary my-2">ログイン</a>
-                    </p> -->
+                    </p>
                 </div>
             </div>
         </section>
@@ -57,15 +57,11 @@
 
                 <div class="fine row row-cols-1 row-cols-sm-1 row-cols-md-3 g-2">
                     @foreach($books as $book)
-
                     <a href="{{ route("books.show", ['book' => $book]) }}">
                         <div class="col">
                             <div class="card shadow-sm">
                                 <!-- <title>Placeholder</title> -->
-                                <div class="mx-auto">
-                                    <img src="/image/{{$book['imgpath']}}" alt="" width="200" height="340">
-                                </div>
-
+                                <img src="/image/{{$book['imgpath']}}" alt="" width="100%" height="340">
 
 
 

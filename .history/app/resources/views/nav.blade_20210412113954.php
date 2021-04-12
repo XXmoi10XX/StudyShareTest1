@@ -19,11 +19,9 @@
             @endguest
 
             @auth
-            <li class="nav-item">
-                <button form="logout-button" class="dropdown-item" type="submit">
-                    ログアウト
-                </button>
-            </li>
+            <button form="logout-button" class="dropdown-item" type="submit">
+                ログアウト
+            </button>
 
 
             <form id="logout-button" method="POST" action="{{ route('logout')}}">

@@ -1,6 +1,5 @@
 @extends('app')
 
-@include('nav')
 @section('title', '本詳細')
 
 @section('content')
@@ -44,7 +43,7 @@
 
 
 
-                        <h3 class="mb-3">質問する</h3>
+                        <h3 class="mb-3">投稿する</h3>
                         <p></p>
 
 
@@ -111,15 +110,12 @@
 
 
 <div class="container">
-    <h3 class="mb-3">投稿する</h3>
     <div class="row">
         <div class="col-12">
-            @auth
             <div class="card mt-3">
-
                 <div class="card-body pt-0">
                     @include('error_card_list')
-
+                    @auth
                     <div class="card-text">
                         <form method="POST" action="{{ route('articles.store' )}}">
                             <input hidden type="nubmer" name="book_id" required value="{{$book['id']}}">
@@ -127,28 +123,9 @@
                             <button type="submit" class="btn btn-primary btn-block mb-4">投稿する</button>
                         </form>
                     </div>
-
+                    @authend
                 </div>
-
             </div>
-            @endauth
-
-            @guest
-            <section class="py-5 text-center container">
-                <div class="row py-lg-5">
-                    <div class="col-lg-6 col-md-8 mx-auto">
-                        <h1 class="fw-light">Share Study</h1>
-                        <p class="lead text-muted">ログインして始めよう!</p>
-                        <p>
-                            <a href="{{ route('register')}}" class="btn btn-primary my-2">アカウント登録</a>
-                            <a href="{{ route('login')}} " class="btn btn-secondary my-2">ログイン</a>
-                        </p>
-                    </div>
-                </div>
-            </section>
-
-            @endguest
         </div>
-
     </div>
 </div>

@@ -19,13 +19,18 @@
             @endguest
 
             @auth
-            <li class="nav-item">
-                <button form="logout-button" class="dropdown-item" type="submit">
-                    ログアウト
-                </button>
+            <li class="nav-item ">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Dropdown
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+
+                    <button class="dropdown-item" type="button">マイページ</button>
+                    <button form="logout-button" class="dropdown-item" type="submit">ログアウト</button>
+                    <div class="dropdown-divider"></div>
+                    <a class="dropdown-item" href="#">Something else here</a>
+                </div>
             </li>
-
-
             <form id="logout-button" method="POST" action="{{ route('logout')}}">
                 @csrf
             </form>
