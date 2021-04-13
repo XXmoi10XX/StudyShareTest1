@@ -28,7 +28,7 @@
 
     a:hover {
         text-decoration: none;
-
+        color: #00FFFF;
     }
 </style>
 

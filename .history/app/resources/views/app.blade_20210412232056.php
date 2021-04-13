@@ -23,12 +23,11 @@
 <style>
     a {
         text-decoration: none;
-        color: #333333;
+        color: #333333:
     }
 
     a:hover {
         text-decoration: none;
-
     }
 </style>
 
