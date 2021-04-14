@@ -25,7 +25,7 @@
 
 
 
-##　テーブル設計
+## テーブル設計
 
  <img width="929" alt="スクリーンショット 2021-04-14 18 56 46" src="https://user-images.githubusercontent.com/40953175/114692522-a883fa00-9d53-11eb-8a6d-258cc240294e.png">
 
