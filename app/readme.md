@@ -28,6 +28,10 @@
 ## テーブル設計
 
  <img width="929" alt="スクリーンショット 2021-04-14 18 56 46" src="https://user-images.githubusercontent.com/40953175/114692522-a883fa00-9d53-11eb-8a6d-258cc240294e.png">
+ 
+ ## AWS構成図
+ 
+ <img width="662" alt="スクリーンショット 2021-04-14 21 13 51" src="https://user-images.githubusercontent.com/40953175/114708492-5ef0da80-9d66-11eb-95c9-347aacb81877.png">
 
 
 ## 使用技術
