@@ -65,6 +65,5 @@
 
 ![loginDemo](https://user-images.githubusercontent.com/40953175/114805728-77044080-9dde-11eb-9fb5-245ca28ec8c7.gif)
 
-![test2](https://user-images.githubusercontent.com/40953175/114812360-cbadb880-9dea-11eb-8671-2419d894f189.gif)
 
 
