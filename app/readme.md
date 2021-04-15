@@ -52,3 +52,6 @@
 - ログアウト機能
 - アカウント登録機能
 - 書籍検索機能
+
+![loginDemo](https://user-images.githubusercontent.com/40953175/114805728-77044080-9dde-11eb-9fb5-245ca28ec8c7.gif)
+
