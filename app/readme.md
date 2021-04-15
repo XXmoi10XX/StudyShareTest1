@@ -65,5 +65,4 @@
 
 ![loginDemo](https://user-images.githubusercontent.com/40953175/114805728-77044080-9dde-11eb-9fb5-245ca28ec8c7.gif)
 
-![ダウンロード](https://user-images.githubusercontent.com/40953175/114809312-e2511100-9de4-11eb-8010-657ceb4951b2.gif)
 
