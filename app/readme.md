@@ -65,10 +65,12 @@
 
 
 
+## ログイン、ログアウト、アカウント登録機能
 ![ログイン等](https://user-images.githubusercontent.com/40953175/114813309-d2d5c600-9dec-11eb-9176-3ee90dc96729.gif)
 
 
-
+## 投稿機能
 ![投稿](https://user-images.githubusercontent.com/40953175/114813145-6ce93e80-9dec-11eb-9ef5-c6639c752c5f.gif)
 
+## 検索機能　
 ![検索](https://user-images.githubusercontent.com/40953175/114813794-cbfb8300-9ded-11eb-8b5d-220ada471eec.gif)
