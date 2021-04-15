@@ -1,0 +1,5 @@
+{
+    "require-dev": {
+        "beyondcode/laravel-er-diagram-generator": "^1.5"
+    }
+}
