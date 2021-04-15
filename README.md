@@ -74,5 +74,9 @@
 ## 投稿機能
 ![投稿](https://user-images.githubusercontent.com/40953175/114813145-6ce93e80-9dec-11eb-9ef5-c6639c752c5f.gif)
 
+## 返信機能
+![返信](https://user-images.githubusercontent.com/40953175/114821930-48955e00-9dfc-11eb-99a9-fd1855ad9110.gif)
+
+
 ## 検索機能　
 ![検索](https://user-images.githubusercontent.com/40953175/114813794-cbfb8300-9ded-11eb-8b5d-220ada471eec.gif)
