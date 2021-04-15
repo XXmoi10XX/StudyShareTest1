@@ -65,7 +65,6 @@
 
 ![loginDemo](https://user-images.githubusercontent.com/40953175/114805728-77044080-9dde-11eb-9fb5-245ca28ec8c7.gif)
 
-![画面収録 2021-04-15 12 14 20](https://user-images.githubusercontent.com/40953175/114812064-3b6f7380-9dea-11eb-9458-5d7b7ee6ab9d.gif)
-
+![test2](https://user-images.githubusercontent.com/40953175/114812360-cbadb880-9dea-11eb-8671-2419d894f189.gif)
 
 
