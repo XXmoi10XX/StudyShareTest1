@@ -77,6 +77,10 @@
 ## 返信機能
 ![コメント](https://user-images.githubusercontent.com/40953175/114823830-00c40600-9dff-11eb-9e0d-644a4e652d51.gif)
 
+## 返信機能削除
+![返信削除](https://user-images.githubusercontent.com/40953175/114966652-00367880-9eae-11eb-997d-252673402378.gif)
+
+
 
 ## 検索機能　
 ![検索](https://user-images.githubusercontent.com/40953175/114813794-cbfb8300-9ded-11eb-8b5d-220ada471eec.gif)
