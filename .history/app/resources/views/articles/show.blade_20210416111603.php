@@ -20,7 +20,7 @@
     <h5>回答</h5>
     @foreach($replies as $reply)
     @if($reply->article_id == $article->id)
-    @include('replies.card')
+    @include('replied.card')
     @endif
     @endforeach
 

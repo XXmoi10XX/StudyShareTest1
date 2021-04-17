@@ -24,7 +24,7 @@ class ReplyController extends Controller
     public function destroy(Reply $reply, Article $article)
     {
         $reply->delete();
-        return redirect()->route('books.index');
+        return redirect()->route('articles.show ');
     }
 
 

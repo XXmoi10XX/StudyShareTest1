@@ -18,15 +18,18 @@
                             @csrf
                             <div class="md-form">
                                 <label></label>
-                                <input type="text" name="title" class="form-control" placeholder="タイトル" 　required value="{{ $article->title ?? old('title') }}">
+                                <input type="text" name="title" class="form-control" placeholder="タイトル" 　required value="{{ old('title') }}">
+
+
                             </div>
 
                             <div class="form-group">
                                 <div class="form-group">
                                     <label></label>
-                                    <textarea name="body" required class="form-control" rows="16" placeholder="本文">{{ $article->body ?? old('body') }}</textarea>
+                                    <textarea name="body" required class="form-control" rows="16" placeholder="本文">{{ old('body') }}</textarea>
+
                                 </div>
-                                <button type="submit" class="btn btn-light btn-block">更新する</button>
+                                <button type="submit" class="btn blue-gradient btn-block">更新する</button>
                         </form>
                     </div>
                 </div>

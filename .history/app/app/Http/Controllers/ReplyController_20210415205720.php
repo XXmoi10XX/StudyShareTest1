@@ -12,21 +12,8 @@ class ReplyController extends Controller
 {
     public function edit(reply $reply)
     {
-        return view('replies.edit', ['reply' => $reply]);
+        return view('articles.edit', ['reply' => $reply]);
     }
-
-    public function update(ReplyRequest $request, Reply $reply)
-    {
-        $reply->fill($request->all())->save();
-        return redirect()->route('books.index');
-    }
-
-    public function destroy(Reply $reply, Article $article)
-    {
-        $reply->delete();
-        return redirect()->route('books.index');
-    }
-
 
     public function store(ReplyRequest $request, Reply $reply)
     {

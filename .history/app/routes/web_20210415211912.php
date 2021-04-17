@@ -20,7 +20,7 @@ Route::get('search', 'BookController@search');
 // Route::get('replies/{reply}/edit', 'ReplyController@edit')->name('replies.edit');
 // Route::PUT('replies{reply}', 'ReplyController@update')->name('replies.update');
 
-Route::resource('/replies', 'ReplyController');
+Rpute::resource('/replies', 'replyContoller');
 
 
 Route::resource('/articles', 'ArticleController')->except(['show'])->middleware('auth');

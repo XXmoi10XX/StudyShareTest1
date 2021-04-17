@@ -16,11 +16,9 @@ Route::get('books/{book}', 'BookController@show')->name('books.show');
 Route::get('book/{id}/create', 'ArticleController@create');
 Route::get('search', 'BookController@search');
 
-// Route::post('replies', 'ReplyController@store')->name('replies.store');
-// Route::get('replies/{reply}/edit', 'ReplyController@edit')->name('replies.edit');
-// Route::PUT('replies{reply}', 'ReplyController@update')->name('replies.update');
-
-Route::resource('/replies', 'ReplyController');
+Route::post('replies', 'ReplyController@store')->name('replies.store');
+Route::get('replies/{reply}/edit', 'ReplyController@edit')->name('replies.edit');
+Route::PUT('replies{reply}', 'ReplyController@update')->name('replies.update');
 
 
 Route::resource('/articles', 'ArticleController')->except(['show'])->middleware('auth');
