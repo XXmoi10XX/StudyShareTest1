@@ -1,3 +1,5 @@
+# StudyShareTest1
+
 ##  ShareStudy - 概要 -
 
 
@@ -15,6 +17,17 @@
 ことをコンセプトに「ShareStudy」というサービスを作りました。
 
 アプリのURL: http://ec2-52-198-0-151.ap-northeast-1.compute.amazonaws.com/
+
+## 使い方
+
+
+ログインすると質問回答出来ます。
+1. アカウント登録 もしくはゲストログイン
+2. ログイン、もしくはゲストログイン
+3. 書籍のchapterを選択し、質問投稿
+4. 質問に対して返信
+
+主な使い方は以上です
 
 ## 目的
 
@@ -55,13 +68,18 @@
   - EC2
 
 ## 機能一覧
+- リスト1
+    - リスト1_1
 - 投稿機能
- -　質問投稿機能
- -　質問返信
+  - 質問投稿
+  - 質問返信
+  - 削除
+  - 編集
 - ログイン機能
 - ログアウト機能
 - アカウント登録機能
 - 書籍検索機能
+- Fakerによるランダム文章(返信)
 
 
 
@@ -71,6 +89,14 @@
 
 ## 投稿機能
 ![投稿](https://user-images.githubusercontent.com/40953175/114813145-6ce93e80-9dec-11eb-9ef5-c6639c752c5f.gif)
+
+## 返信機能
+![コメント](https://user-images.githubusercontent.com/40953175/114823830-00c40600-9dff-11eb-9e0d-644a4e652d51.gif)
+
+## 返信機能削除
+![返信削除](https://user-images.githubusercontent.com/40953175/114966652-00367880-9eae-11eb-997d-252673402378.gif)
+
+
 
 ## 検索機能　
 ![検索](https://user-images.githubusercontent.com/40953175/114813794-cbfb8300-9ded-11eb-8b5d-220ada471eec.gif)
