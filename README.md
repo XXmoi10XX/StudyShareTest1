@@ -16,7 +16,7 @@
 
 ことをコンセプトに「ShareStudy」というサービスを作りました。
 
-アプリのURL: http://ec2-52-198-0-151.ap-northeast-1.compute.amazonaws.com/
+<!-- アプリのURL: http://ec2-52-198-0-151.ap-northeast-1.compute.amazonaws.com/ -->
 
 ## 使い方
 
